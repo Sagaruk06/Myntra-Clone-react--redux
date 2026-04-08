@@ -158,3 +158,6 @@ dist-ssr
 *.sln
 *.sw?
 >>>>>>> f6c7d1a (myntra project upload)
+
+# Local Netlify folder
+.netlify
